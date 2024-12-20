@@ -150,6 +150,13 @@ body {
     
 }
 
+.gif-small :hover {
+    width: 150px;
+    height: auto;
+;
+
+}
+
 @media (min-width: 920px) { 
     .gif-large img {
         width: 200px;
